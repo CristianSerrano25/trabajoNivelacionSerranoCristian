@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interacción con Popup</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <input type="text" id="textBox" placeholder="Escribe algo y presiona Enter">
+    <div id="popup" class="hidden">
+        <p id="popupText"></p>
+        <button id="popupButton">Cambiar Colores</button>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
