@@ -14,18 +14,11 @@ Este proyecto combina un servidor de JavaScript y uno en Python con Flask para s
    git clone https://github.com/CristianSerrano25/trabajoNivelacionSerranoCristian.git
    cd trabajoNivelacionSerranoCristian
 
-2. Configura el entorno virtual de Python:
-
-    ```bash
-    python -m venv .venv
-    .\.venv\Scripts\activate
-    pip install flask
-
-3. Instala la dependencia de Node.Js utilizada (Express)
+2. Instala la dependencia de Node.Js utilizada (Express)
     ```bash
     npm install
 
-4. Ejecución
+3. Ejecución
 
 ## JavaScript
 
