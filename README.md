@@ -40,10 +40,6 @@ Este proyecto combina un servidor de JavaScript y uno en Python con Flask para s
 
 ## Python
 
--Activa el entorno virtual
-
-    .\.venv\Scripts\activate
-
 -Levantar el servidor
 
     python app.py
