@@ -11,8 +11,8 @@ Este proyecto combina un servidor de JavaScript y uno en Python con Flask para s
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/CristianSerrano25/trabajoNivelacionSerranoCristian.git
+   cd trabajoNivelacionSerranoCristian
 
 2. Configura el entorno virtual de Python:
 
