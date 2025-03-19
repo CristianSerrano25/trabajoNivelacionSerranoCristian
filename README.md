@@ -49,5 +49,3 @@ Este proyecto combina un servidor de JavaScript y uno en Python con Flask para s
     python app.py
 
 -Abre el navegador e ingresa a : http://127.0.0.1:5000
-
-"# trabajoNivelacionSerranoCristian" 
